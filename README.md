@@ -1,5 +1,5 @@
 # Data Science Projects
-![Banner](https://images.pexels.com/photos/185576/pexels-photo-185576.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![banner-git](https://github.com/mkalirane/AnalyticsWriter.com/assets/114637891/ffab6bdd-f561-4082-9b71-a9601b104649)
 *Photo by Timur Saglambilek on [Pexels](https://www.pexels.com/photo/analytics-text-185576/)*
 
 The aim of machine learning is to ensure that models are well-generalized, and eliminating underfitting and overfitting. 
