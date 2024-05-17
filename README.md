@@ -1,0 +1,21 @@
+# Data Science Projects
+![banner-git](https://github.com/mkalirane/AnalyticsWriter.com/assets/114637891/ffab6bdd-f561-4082-9b71-a9601b104649)
+*Photo by Timur Saglambilek on [Pexels](https://www.pexels.com/photo/analytics-text-185576/)*
+
+The aim of machine learning is to ensure that models are well-generalized, and eliminating underfitting and overfitting. 
+The following projects aim to ensure that models achieve the optimal generalization, thereby achieving accurate prediction of unseen data.
+To achieve this generalization measures have been applied to improve the model. My data science projects are as follows:
+
+## 1. [Heart Disease Classification](#)
+ This project predicts whether a patient has heart disease or not, depending on certain health factors of the patient. 
+- **Objective**: Heart disease is a very pervasive disease. Thus we want early detection and accurate detection.
+- **Task**: Classification
+- **Algorithms**: K-Nearest Neighbors (KNN) and Naive Bayes.
+- **Results:** Generalization improved by 3% after applying Hyperparameter Tuning.
+
+## 2. [Loan Approval Classification](#)
+This project predicts whether a loan applicant qualifies for a loan or not, depending on the characteristics of the applicant.
+- **Objective:** Financial institutions want to ensure that customers are accurately classified, to avoid losses. Thus we need a generalized model.
+- **Task:** Classification
+- **Algorithms:** LSTMs
+- **Results:**
