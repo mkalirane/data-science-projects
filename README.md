@@ -22,7 +22,7 @@ This project predicts whether a loan applicant qualifies for a loan or not, depe
 
 ## **[Convolutional Neural Networks (CNNs)](https://github.com/mkalirane/projects/tree/main/CNN)**
 
-#### 2. [Car Image Classification](#)
+#### 3. [Car Image Classification](#)
 This project classifies cars into luxury market or mass-market classes, depending on the images of the car.
 - **Objective:** Classifying cars into luxury or mass-market classes are helpful for car sale sites because it
 - **Task:** Image Classification
@@ -31,7 +31,7 @@ This project classifies cars into luxury market or mass-market classes, dependin
   
 ## **[Linear Regression](https://github.com/mkalirane/projects/tree/main/Linear%20Regression)** 
 
-#### 3. [Medical Costs Prediction](#)
+#### 4. [Medical Costs Prediction](#)
 This project predicts the medical costs of the patient, depending on the characteristics of the patients, such as age, BMI, gender, etc.
 - **Objective:** Understanding the factors that influence medical insurance costs can aid in financial planning and policy-making decisions.
 - **Task:** Regression
@@ -40,7 +40,7 @@ This project predicts the medical costs of the patient, depending on the charact
 
 ## **[Logistic Regression](https://github.com/mkalirane/projects/tree/main/Logistic%20Regression)**
 
-#### 4. Heart Disease Classification
+#### 5. Heart Disease Classification
  This project predicts whether a patient has heart disease or not, depending on certain health factors of the patient. 
 - **Objective**: Heart disease is a very pervasive disease. Thus we want early detection and accurate detection.
 - **Task**: Classification
@@ -49,7 +49,7 @@ This project predicts the medical costs of the patient, depending on the charact
 
 ## **[RNN (LSTM)](https://github.com/mkalirane/projects/tree/main/LSTM)**
 
-#### 5. [Starbucks Reviews Classification](#)
+#### 6. [Starbucks Reviews Classification](#)
 This project predicts whether a Starbucks customer review belongs to which star rating (1 to 5) , depending on the characteristics of the text.
 - **Objective:** Useful for ratings websites
 - **Task:** Classification
@@ -58,7 +58,7 @@ This project predicts whether a Starbucks customer review belongs to which star 
 
 ## **[Natural Language Processing (NLP)](https://github.com/mkalirane/projects/tree/main/Linear%20Regression)**
 
-#### 6. [Spam Email Classification](#)
+#### 7. [Spam Email Classification](#)
 This project predicts whether an email is spam or ham , depending on the characteristics of the text in the email.
 - **Objective:** Useful for helping accurately categorize emails
 - **Task:** Classification
