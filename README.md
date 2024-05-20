@@ -64,3 +64,8 @@ This project predicts whether an email is spam or ham , depending on the charact
 - **Task:** Classification
 - **Algorithms:** KNN
 - **Results:**
+
+[^1]: [↑ Above Text](#)
+
+Some text with a link arrow symbol[^1] above it.
+
