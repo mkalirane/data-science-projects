@@ -28,7 +28,7 @@ This project classifies cars into luxury market or mass-market classes, dependin
 - **Task:** Image Classification
 - **Algorithms:** Convolutional Neural Networks (CNNs)
 - **Results:**
-- 
+  
 ## **[Linear Regression](https://github.com/mkalirane/projects/tree/main/Linear%20Regression)** 
 
 #### 3. [Medical Costs Prediction](#)
